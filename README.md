@@ -1,2 +1,2 @@
 # webdev1
-Web Dev Coursera
+Web Dev
